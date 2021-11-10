@@ -1,0 +1,2 @@
+EMAIL,SMS,FIRSTNAME,LASTNAME
+importtest@sendinblue.com,913858210056,Import,Test
