@@ -1,11 +1,11 @@
-﻿EMAIL,FIRSTNAME,LASTNAME,TESTTEXT,TESTDATE,TESTNUMBER,TESTBOOL,TESTCATEGORY,ORDER_PRICE,TESTTRANSACTIONALTEXT,TESTCALCULATED
-ap1662+1@sendinblue.com,first,name,test,13-05-2021,1,true,1,1,test,1
-ap1662+2@sendinblue.com,first,name,test,05-13-2021,2,false,2,2,test,1
-ap1662+3@sendinblue.com,first,name,test,2021-05-13,3,0,3,3,test,1
-ap1662+4@sendinblue.com,first,name,test,2021-13-05,4,1,4,4,test,1
-ap1662+5@sendinblue.com,first,name,test,13-2021-05,5,yes,5,1,test,1
-ap1662+6@sendinblue.com,first,name,test,05-2021-13,6,no,6,1,test,1
-ap1662+7@sendinblue.com,first,name,test,05-2021-13,6,YES,7,1,test,1
-ap1662+8@sendinblue.com,first,name,test,05-2021-13,6,NO,8,1,test,1
-ap1662+9éùâçëïü#@sendinblue.com,first,name,test,05-2021-13,6,NO,8,1,test,1
-ap1662+10éùâçëïü#@sendinblue.com,first,name,test,05-2021-13,6,NO,8,1,test,1
+﻿EMAIL,SMS,FIRSTNAME,LASTNAME,TESTTEXT,TESTDATE,TESTNUMBER,TESTBOOL,TESTCATEGORY,ORDER_PRICE,TESTTRANSACTIONALTEXT,TESTCALCULATED
+ ap1662+1@sendinblue.com,first,name,test,13-05-2021,1,true,1,1,test,1
+ ap1662+2@sendinblue.com,919988998899,first,name,test,05-13-2021,2,false,2,2,test,1
+ ap1662+3@sendinblue.com,919988998898,first,name,test,2021-05-13,3,0,3,3,test,1
+ ap1662+4@sendinblue.com,919988998897,first,name,test,2021-13-05,4,1,4,4,test,1
+ ap1662+5@sendinblue.com,919988998896,first,name,test,13-2021-05,5,yes,5,1,test,1
+ ap1662+6@sendinblue.com,919988998895,first,name,test,05-2021-13,6,no,6,1,test,1
+ ap1662+7@sendinblue.com,919988998894,first,name,test,05-2021-13,6,YES,7,1,test,1
+ ap1662+8@sendinblue.com,919988998893,first,name,test,05-2021-13,6,NO,8,1,test,1
+ ap1662+9éùâçëïü#@sendinblue.com,919988998892,first,name,test,05-2021-13,6,NO,8,1,test,1
+ ap1662+10éùâçëïü@sendinblue.com,919988998891,first,name,test,05-2021-13,6,NO,8,1,test,1
