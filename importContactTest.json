@@ -1,0 +1,20 @@
+  [
+  {
+    "EMAIL": "arun.mishra@test.com",
+    "attributes": {
+      "FIRSTNAME": "ARUN",
+      "LASTNAME": "MISHRA",
+      "SMS": "9761555065",
+      "SKIP-ATTRIBUTE":"SKIP"
+    }
+  },
+  {
+    "EMAIL": "arun.mishra+2@test.com",
+    "attributes": {
+      "FIRSTNAME": "Aru",
+      "LASTNAME": "MISHR",
+      "SMS": "9761555650",
+      "SKIP-ATTRIBUTE":"SKIP"
+    }
+  }
+]
