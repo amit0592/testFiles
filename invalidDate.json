@@ -1,0 +1,12 @@
+
+[
+  {
+    "Email": "arun.mishra@test.com",
+    "attributes": {
+      "FIRSTNAME": "ARUN",
+      "LASTNAME": "MISHRA",
+      "SMS": "919761555065",
+      "DOB":"28011993"
+    }
+  }
+]
