@@ -1,0 +1,5 @@
+EMAIL,SMS,FIRSTNAME,LASTNAME,TESTTEXT,TESTDATE,TESTNUMBER,TESTBOOL,TESTCATEGORY,ORDER_PRICE,TESTTRANSACTIONALTEXT,TESTCALCULATED
+importtest+1@sendinblue.com,919805469087,first,name,test,12-12-2021,1,true,1,1,test,1
+importtest+2@sendinblue.com,919805469088,first,name,test,13-05-2021,2,false,1,1,test,1
+importtest+3@sendinblue.com,919805469089,first,name,test,05-13-2021,1,yes,1,1,test,1
+importtest+4@sendinblue.com,919805469090,first,name,test,12-12-2021,2,no,1,1,test,1
