@@ -1,5 +1,42 @@
 [
   {
-    "Email": "test@cygrp5.com"
+    "Email": "arun.mishra@test.com",
+    "attributes": {
+      "FIRSTNAME": "ARUN",
+      "LASTNAME": "MISHRA",
+      "SMS": "919711555065",
+      "SKIP-ATTRIBUTE":"SKIP"
     }
-    ]
+  },
+  {
+    "Email": "arun.mishra+2@test.com",
+    "attributes": {
+      "LASTNAME": "MISHR",
+      "SMS": "919721555650",
+      "SKIP-ATTRIBUTE":"SKIP"
+    }
+  },
+  {
+    "Email": "arun.mishra+3@test.com",
+    "attributes": {
+      "FIRSTNAME": "Aru",
+      "SMS": "919727555650",
+      "SKIP-ATTRIBUTE":"SKIP"
+    }
+  {
+    "Email": "arun.mishra+3@test.com",
+    "attributes": {
+      "FIRSTNAME": "Aru",
+      "LASTNAME": "MISHR",
+      "SKIP-ATTRIBUTE":"SKIP"
+    }
+  },
+  {
+    "Email": "arun.mishra+4@test.com",
+    "attributes": {
+      "FIRSTNAME": "Aru",
+      "LASTNAME": "MISHR",
+      "SMS": "919741555650"
+    }
+  }
+]
