@@ -1,0 +1,42 @@
+[
+  {
+    "Email": "arun.mishra+test1@test.com",
+    "attributes": {
+      "FIRSTNAME": "ARUN",
+      "LASTNAME": "MISHRA",
+      "SMS": "919797555065",
+      "SKIP-ATTRIBUTE":"SKIP"
+    }
+  },
+  {
+    "Email": "arun.mishra+test2@test.com",
+    "attributes": {
+      "LASTNAME": "MISHR",
+      "SMS": "919727555650",
+      "SKIP-ATTRIBUTE":"SKIP"
+    }
+  },
+  {
+    "Email": "arun.mishra+test3@test.com",
+    "attributes": {
+      "FIRSTNAME": "Aru",
+      "SMS": "919707555650",
+      "SKIP-ATTRIBUTE":"SKIP"
+    }
+  {
+    "Email": "arun.mishra+test4@test.com",
+    "attributes": {
+      "FIRSTNAME": "Aru",
+      "LASTNAME": "MISHR",
+      "SKIP-ATTRIBUTE":"SKIP"
+    }
+  },
+  {
+    "Email": "arun.mishra+test5@test.com",
+    "attributes": {
+      "FIRSTNAME": "Aru",
+      "LASTNAME": "MISHR",
+      "SMS": "919749555650"
+    }
+  }
+]
